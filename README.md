@@ -13,4 +13,5 @@ Power and Torque Calculation: Uses Newton's second law and an inertia dynamomete
 
 Data Storage
 
-Youtube video with demo: [https://www.youtube.com/watch?v=A_HQ3gR5HxI](url)
+Youtube video with demo: [![Watch the video](https://img.youtube.com/vi/A_HQ3gR5HxI/0.jpg)](https://www.youtube.com/watch?v=A_HQ3gR5HxI)
+Code demo in CoLab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xXW-lpPY6unzWLIvj34yn0SoHZhPomZg?usp=sharing)
