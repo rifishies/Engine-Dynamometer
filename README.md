@@ -17,4 +17,4 @@ Youtube video with demo: [![Watch the video](https://img.youtube.com/vi/A_HQ3gR5
 
 Code demo in CoLab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xXW-lpPY6unzWLIvj34yn0SoHZhPomZg?usp=sharing)
 
-Data Set:  [![Open In Colab](https://drive.google.com/drive/folders/1ODvreNFiu_DKRLZgpJbMkeKhAg_L8gie?usp=sharing)
+Data Set:  [![Open In Drive](https://drive.google.com/drive/folders/1ODvreNFiu_DKRLZgpJbMkeKhAg_L8gie?usp=sharing)
